@@ -1,6 +1,11 @@
 # Pytorch_XOR_Example
 Simple neural_net acting as XOR classifier
 
+## 0. Model Structure
+Following is the network representation. 
+![image](https://user-images.githubusercontent.com/77431192/140403022-32f1e11b-f95d-4544-b1a3-554ad00125bb.png)
+Sigmoid function is used as activateion function.
+
 ## 1. Prepare Data
 Datset will be saved as "data.pickle".
 ~~~
