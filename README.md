@@ -34,7 +34,7 @@ python train.py
 ~~~
 
 ## 3. Test
-laod pre trained model from file "model.pt", conduct some test.
+load pre-trained model from file "model.pt", conduct some test.
 ~~~
 python test.py
 ~~~
