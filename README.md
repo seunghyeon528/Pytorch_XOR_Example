@@ -8,13 +8,13 @@ python generate_dataset.py
 ~~~
 
 ## 2. Train
-After training, trained_model will be saved as "model.pt"
+After training, trained model will be saved as "model.pt"
 ~~~
 python train.py
 ~~~
 
 ## 3. Test
-laod pre_trained model from file "model.pt", conduct some test.
+laod pre trained model from file "model.pt", conduct some test.
 ~~~
 python test.py
 ~~~
