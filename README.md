@@ -10,6 +10,8 @@ Following is XOR truth table. Output is 1 only when two inputs are different fro
 |10|1|
 |11|0|
 
+
+
 ## 0. Model Structure
 Following is the network representation. 
 ![image](https://user-images.githubusercontent.com/77431192/140403022-32f1e11b-f95d-4544-b1a3-554ad00125bb.png)
