@@ -1,5 +1,6 @@
 # Pytorch_XOR_Example
-Simple neural_net acting as XOR classifier
+Simple neural_net acting as XOR classifier.
+
 Following is XOR truth table. Output is 1 only when two inputs are different from each other. 
 
 |input|output|
