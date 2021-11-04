@@ -43,6 +43,7 @@ python test.py
 
 Following is 3D graph of trained network, plotting each input number in x & y axis, output in z axis.
 You can celarly confirm that trained network divide the region each containing (1,0), (0,1) and (0,0), (1,1).
+This is kind of job that network comprising only one layer cannot do. 
 
 ![image](https://user-images.githubusercontent.com/77431192/140401298-20e1d65a-8bd6-419c-af39-641e4e54af79.png)
 
