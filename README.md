@@ -39,6 +39,8 @@ load pre-trained model from file "model.pt", conduct some test.
 python test.py
 ~~~
 ## 4. Test Results
+Compared with the XOR truth table, the model seems trained successfully.
+
 ![image](https://user-images.githubusercontent.com/77431192/140401320-50c345d5-54b0-486e-bd24-764f96d89d22.png)
 
 Following is 3D graph of trained network, plotting each input number in x & y axis, output in z axis.
