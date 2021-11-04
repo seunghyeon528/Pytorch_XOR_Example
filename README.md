@@ -2,14 +2,19 @@
 Simple neural_net acting as XOR classifier
 
 ## 1. Prepare Data
+Datset will be saved as "data.pickle".
 ~~~
-python generate.py
+python generate_dataset.py
 ~~~
+
 ## 2. Train
+After training, trained_model will be saved as "model.pt"
 ~~~
 python train.py
 ~~~
+
 ## 3. Test
+laod pre_trained model from file "model.pt", conduct some test.
 ~~~
 python test.py
 ~~~
