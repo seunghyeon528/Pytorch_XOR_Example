@@ -18,7 +18,7 @@ To put it simply, the model is 2 - layer fully connected neural-network.
 
 ![image](https://user-images.githubusercontent.com/77431192/140403022-32f1e11b-f95d-4544-b1a3-554ad00125bb.png)
 
-Sigmoid function is used as activateion function.
+Sigmoid function is used as an activateion function.
 Refer to "model.py".
 
 ## 1. Prepare Data
